@@ -1,19 +1,6 @@
-# Quasar App (testapp)
+# Quasar App (katonakescms)
 
-A Quasar Framework app
+A Quasar Framework desktop CMS app for https://katona-kes-site.web.app/
 
-## Install the dependencies
-```bash
-npm install
-```
+![Katona CMS](/KatonaCMS.jpg)
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
